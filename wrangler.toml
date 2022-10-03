@@ -1,6 +1,5 @@
-name = "cors"
-type = "javascript"
+name = "corsproxy"
+
 account_id = "b907a0a458f913a8ddc6d89f475036cf"
 workers_dev = true
-route = ""
-zone_id = ""
+compatibility_date = "2022-10-03"
